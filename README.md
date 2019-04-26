@@ -1,2 +1,2 @@
-# miniproject1
-ANN miniproject 1
+# ANN_Project1-Keras_Neural_Nets
+Feedforward networks and image classification
